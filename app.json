@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_Eb3Xevg0_SESSION-ID",
       "required": true
     },
     "STICKER_PACK_NAME": {
