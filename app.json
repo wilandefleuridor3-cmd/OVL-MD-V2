@@ -10,21 +10,21 @@
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
       "value": ".",
-      "required": false
+      "required": true
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
-      "required": false
+      "value": "YTDYDY",
+      "required": true
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "50935438072",
       "required": true
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "SESSION_ID": {
@@ -34,7 +34,7 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "YTDYDY sticker",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
